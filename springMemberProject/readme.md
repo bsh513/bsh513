@@ -118,6 +118,16 @@ div.HStyle17
 </HEAD>
 
 <BODY>
+	
+<P CLASS=HStyle0><h3>실행 화면</h3></P>
+<img src="https://github.com/bsh513/bsh513/blob/master/springMemberProject/Show/%EC%8B%A4%ED%96%89/%EC%8B%A4%ED%96%891.png">
+<img src="https://github.com/bsh513/bsh513/blob/master/springMemberProject/Show/%EC%8B%A4%ED%96%89/%EC%8B%A4%ED%96%892.png">
+<img src="https://github.com/bsh513/bsh513/blob/master/springMemberProject/Show/%EC%8B%A4%ED%96%89/%EC%8B%A4%ED%96%893.png">
+<img src="https://github.com/bsh513/bsh513/blob/master/springMemberProject/Show/%EC%8B%A4%ED%96%89/%EC%8B%A4%ED%96%894.png">
+<img src="https://github.com/bsh513/bsh513/blob/master/springMemberProject/Show/%EC%8B%A4%ED%96%89/%EC%8B%A4%ED%96%895.png">
+<img src="https://github.com/bsh513/bsh513/blob/master/springMemberProject/Show/%EC%8B%A4%ED%96%89/%EC%8B%A4%ED%96%896.png">
+	
+
 
 <br>
 <P CLASS=HStyle0><h3>- 프로젝트 기술사양(Specs)</h3></P>
