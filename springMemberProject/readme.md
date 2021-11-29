@@ -1016,6 +1016,23 @@ div.HStyle17
 	</TD>
 </TR>
 </TABLE>
+	
+
+<P CLASS=HStyle0><h3>테이블</h3></P>
+<img src="https://github.com/bsh513/bsh513/blob/master/springMemberProject/Show/board.PNG">
+<img src="https://github.com/bsh513/bsh513/blob/master/springMemberProject/Show/member2_table.PNG">
+<br>
+<P CLASS=HStyle0><h3>Java bean Graph 다이어그램</h3></P>
+<img src="https://github.com/bsh513/bsh513/blob/master/springMemberProject/Show/root-context.PNG">
+<img src="https://github.com/bsh513/bsh513/blob/master/springMemberProject/Show/servlet-context.PNG">
+<br>
+<P CLASS=HStyle0><h3>Url mapping 다이어그램</h3></P>
+<img src="https://github.com/bsh513/bsh513/blob/master/springMemberProject/Show/url_mappings.PNG">
+	
+	
+	
+	
+
 
 
 </BODY>
