@@ -213,7 +213,7 @@ div.HStyle17
 	<P CLASS=HStyle0 STYLE='text-align:left;'><SPAN STYLE='font-size:11.3pt;font-family:"HelveticaNeue,한컴돋움";line-height:160%'>ojdbc8</SPAN></P>
 	</TD>
 	<TD valign="middle" style='width:141px;height:59px;border-left:solid #000000 0.7pt;border-right:solid #000000 0.7pt;border-top:solid #000000 0.7pt;border-bottom:solid #000000 0.7pt;padding:7.5pt 7.5pt 7.5pt 7.5pt'>
-	<P CLASS=HStyle0 STYLE='text-align:left;'><SPAN STYLE='font-size:11.3pt;font-family:"HelveticaNeue,한컴돋움";line-height:160%'>12.1.0.1 / </SPAN></P>
+	
 	<P CLASS=HStyle0 STYLE='text-align:left;'><SPAN STYLE='font-size:11.3pt;font-family:"HelveticaNeue,한컴돋움";line-height:160%'>18.3.0.0</SPAN></P>
 	</TD>
 </TR>
@@ -248,7 +248,7 @@ div.HStyle17
 	<P CLASS=HStyle0 STYLE='text-align:left;'><SPAN STYLE='font-size:11.3pt;font-family:"Meiryo,한컴돋움";line-height:160%'>​</SPAN></P>
 	</TD>
 	<TD valign="middle" style='width:141px;height:40px;border-left:solid #000000 0.7pt;border-right:solid #000000 0.7pt;border-top:solid #000000 0.7pt;border-bottom:solid #000000 0.7pt;padding:7.5pt 7.5pt 7.5pt 7.5pt'>
-	<P CLASS=HStyle0 STYLE='text-align:left;'><SPAN STYLE='font-size:11.3pt;font-family:"HelveticaNeue,한컴돋움";line-height:160%'>1.8.x</SPAN></P>
+	<P CLASS=HStyle0 STYLE='text-align:left;'><SPAN STYLE='font-size:11.3pt;font-family:"HelveticaNeue,한컴돋움";line-height:160%'>1.8</SPAN></P>
 	</TD>
 </TR>
 <TR>
